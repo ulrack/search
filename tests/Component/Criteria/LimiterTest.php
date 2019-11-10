@@ -4,13 +4,13 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Tests\Criteria;
+namespace Ulrack\Search\Tests\Component\Criteria;
 
 use PHPUnit\Framework\TestCase;
-use Ulrack\Search\Criteria\Limiter;
+use Ulrack\Search\Component\Criteria\Limiter;
 
 /**
- * @coversDefaultClass \Ulrack\Search\Criteria\Limiter
+ * @coversDefaultClass \Ulrack\Search\Component\Criteria\Limiter
  */
 class LimiterTest extends TestCase
 {

@@ -33,7 +33,7 @@ This object should then be compiled to whatever the application expects.
 Search criteria objects are build on the `\Ulrack\Search\Common\SearchCriteriaInterface`.
 These objects group all underlying search related objects by getting these injected.
 
-The implementation is provided in the class `\Ulrack\Search\Criteria\SearchCriteria`.
+The implementation is provided in the class `\Ulrack\Search\Component\Criteria\SearchCriteria`.
 
 The `SearchCriteria` object can receive and retrieve the following objects:
 - `\Ulrack\Search\Common\FilterGroupInterface`

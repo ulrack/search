@@ -4,13 +4,13 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Tests\Criteria;
+namespace Ulrack\Search\Tests\Component\Criteria;
 
 use PHPUnit\Framework\TestCase;
-use Ulrack\Search\Criteria\Pager;
+use Ulrack\Search\Component\Criteria\Pager;
 
 /**
- * @coversDefaultClass \Ulrack\Search\Criteria\Pager
+ * @coversDefaultClass \Ulrack\Search\Component\Criteria\Pager
  */
 class PagerTest extends TestCase
 {

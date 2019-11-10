@@ -4,7 +4,7 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Criteria;
+namespace Ulrack\Search\Component\Criteria;
 
 use Ulrack\Search\Common\LimiterInterface;
 

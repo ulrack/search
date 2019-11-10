@@ -4,14 +4,14 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Tests\Criteria;
+namespace Ulrack\Search\Tests\Component\Criteria;
 
 use PHPUnit\Framework\TestCase;
-use Ulrack\Search\Criteria\Sorter;
+use Ulrack\Search\Component\Criteria\Sorter;
 use Ulrack\Search\Common\SorterInterface;
 
 /**
- * @coversDefaultClass \Ulrack\Search\Criteria\Sorter
+ * @coversDefaultClass \Ulrack\Search\Component\Criteria\Sorter
  */
 class SorterTest extends TestCase
 {

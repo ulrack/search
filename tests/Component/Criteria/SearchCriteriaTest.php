@@ -4,10 +4,10 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Tests\Criteria;
+namespace Ulrack\Search\Tests\Component\Criteria;
 
 use PHPUnit\Framework\TestCase;
-use Ulrack\Search\Criteria\SearchCriteria;
+use Ulrack\Search\Component\Criteria\SearchCriteria;
 use Ulrack\Search\Common\SearchCriteriaInterface;
 use Ulrack\Search\Common\FilterGroupInterface;
 use Ulrack\Search\Common\SorterInterface;
@@ -15,7 +15,7 @@ use Ulrack\Search\Common\PagerInterface;
 use Ulrack\Search\Common\LimiterInterface;
 
 /**
- * @coversDefaultClass \Ulrack\Search\Criteria\SearchCriteria
+ * @coversDefaultClass \Ulrack\Search\Component\Criteria\SearchCriteria
  */
 class SearchCriteriaTest extends TestCase
 {

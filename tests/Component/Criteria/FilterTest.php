@@ -4,14 +4,14 @@
  * See LICENSE for license details.
  */
 
-namespace Ulrack\Search\Tests\Criteria;
+namespace Ulrack\Search\Tests\Component\Criteria;
 
 use PHPUnit\Framework\TestCase;
-use Ulrack\Search\Criteria\Filter;
+use Ulrack\Search\Component\Criteria\Filter;
 use Ulrack\Search\Common\FilterInterface;
 
 /**
- * @coversDefaultClass \Ulrack\Search\Criteria\Filter
+ * @coversDefaultClass \Ulrack\Search\Component\Criteria\Filter
  */
 class FilterTest extends TestCase
 {
