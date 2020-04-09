@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/search](https://github.com/grizz-it/search)
+
 [![Build Status](https://travis-ci.com/ulrack/search.svg?branch=master)](https://travis-ci.com/ulrack/search)
 
 # Ulrack Search
